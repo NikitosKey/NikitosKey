@@ -1,7 +1,7 @@
 
 # 👋 Hi there! I'm Nikita!
 
-### 🎓 About Me
+<!-- ### 🎓 About Me
 
 I'm a student at **Saint-Petersburg State University**, passionate about low-level programming, system administration, ardruino, and building cool projects.
 
