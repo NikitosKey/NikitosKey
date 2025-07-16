@@ -9,9 +9,10 @@ I'm a student at **Saint-Petersburg State University**, passionate about low-lev
 
 ### 🔭 What I'm Currently Working On:
 
-<!--*   **[lovyagin/nasfs](https://github.com/lovyagin/nasfs/tree/feature/base_server)**: Contributing to the NAS file system project, focusing on the `feature/base_server` branch. -->
+*   **[lovyagin/nasfs](https://github.com/lovyagin/nasfs/tree/feature/base_server)**: Contributing to the NAS file system project, focusing on the `feature/base_server` branch.
 *   **Own VPN/Proxy Mini-Service**: Developing my own solution for enhanced privacy and access.
-<!-- *   **[Battle-Tanks](https://github.com/NikitosKey/Battle-Tanks/issues/7)**: Actively working on [Issue #7](https://github.com/NikitosKey/Battle-Tanks/issues/7) for this game project. -->
+<!--*   **Docs for [PySATL-TSP](https://github.com/PySATL/pysatl-tsp)**: Creating a Sphinx documentation for this project.
+ *   **[Battle-Tanks](https://github.com/NikitosKey/Battle-Tanks/issues/7)**: Actively working on [Issue #7](https://github.com/NikitosKey/Battle-Tanks/issues/7) for this game project. -->
 
 ---
 
