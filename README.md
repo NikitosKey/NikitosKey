@@ -16,7 +16,7 @@ I'm a student at **Saint-Petersburg State University**, passionate about low-lev
 
 ---
 
-### 🌱 What I'm Currently Learning:
+<!-- ### 🌱 What I'm Currently Learning:
 
 *   **Operating Systems**: Diving deep into Linux, POSIX, and UNIX principles.
 *   **Programming Languages**: Mastering C, exploring C++, and possibly moving to Rust soon. I also have a basic understanding of JS, Java and Python.
